@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "しっくおぶはうす! (Self Remix)",
+  "base_artist": "オゾン",
+  "createdAt": "2026-02-16T08:06:27.097902Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "しっくおぶはうす！Self Remix",
+      "artist": "オゾン feat. 鏡音リン, 鏡音レン",
+      "has_synced": true,
+      "path": "select/01_しっくおぶはうす!Self_Remix_オゾン_feat._鏡音リン,_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "しっくおぶはうす！ (feat. 鏡音リン&鏡音レン)",
+      "artist": "オゾン",
+      "has_synced": true,
+      "path": "select/02_しっくおぶはうす!_(feat._鏡音リン&鏡音レン)_オゾン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "しっくおぶはうす! (feat. 鏡音リン&鏡音レン)",
+      "artist": "オゾン",
+      "has_synced": false,
+      "path": "select/pl_01_しっくおぶはうす!_(feat._鏡音リン&鏡音レン)_オゾン.txt"
+    }
+  ]
+}
